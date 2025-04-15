@@ -8,3 +8,4 @@ coverage
 # pycrypto
 flask
 gunicorn
+wtforms
