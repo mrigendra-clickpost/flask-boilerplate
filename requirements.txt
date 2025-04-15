@@ -6,3 +6,5 @@ coverage
 # ecdsa
 # paramiko
 # pycrypto
+flask
+gunicorn
